@@ -1,0 +1,7 @@
+PyQt5
+pyqtgraph
+MetaTrader5
+scikit-learn
+pandas
+numpy
+requests
