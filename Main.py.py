@@ -332,7 +332,7 @@ class ZenithMemory:
         return None
 
 # =============================================================================
-# 7. QUANTUM QUEEN LOGIC (PHYSICS ENGINE)
+# 7. QUANTUM LOGIC (PHYSICS ENGINE)
 # =============================================================================
 class QuantumQueenLogic:
     @staticmethod
