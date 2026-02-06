@@ -24,7 +24,7 @@
 ### Setup
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Paldo-ALM.git](https://github.com/YOUR_USERNAME/Paldo-ALM.git)
+    git clone [https://github.com/0xnecro865/Paldo-ALM.git](https://github.com/0xnecro865/Paldo-ALM.git)
     cd Paldo-ALM
     ```
 
